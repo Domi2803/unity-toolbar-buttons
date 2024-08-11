@@ -13,6 +13,7 @@ namespace BennyKok.ToolbarButtons
 {
     public class DefaultToolbarButtons
     {
+        /*
         private const string scenesFolder = "Scenes";
         private static AdvancedDropdownState scenesState = new AdvancedDropdownState();
 
@@ -183,5 +184,6 @@ namespace BennyKok.ToolbarButtons
             EditorApplication.ExecuteMenuItem("Help/Quick Search");
         }
 
+        */
     }
 }
